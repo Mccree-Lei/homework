@@ -25,7 +25,7 @@ public class TestTranslator {
     public void translator() {
         /**
          * 1.提供服务
-         * 2.提供具体的方法集合
+         * 2.提供具体的方法集合:端点
          * 3.某个具体的方法，给方法设置参数，获得返回值
          */
         EnglishChinese ws = new EnglishChinese();
